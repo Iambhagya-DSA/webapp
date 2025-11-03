@@ -90,7 +90,7 @@ It provides an interactive dashboard for users to analyze trends, visualize pred
 
 **Bhagyashree S**  
 _Data Science Enthusiast | AI & Machine Learning Developer_  
-📬 [LinkedIn](https://github.com/Iambhagya-DSA) | ✉️ [Email](bhagyashree2019s@gmail.com)
+📬 [LinkedIn](https://www.linkedin.com/in/bhagya-dsa) | ✉️ [Email](bhagyashree2019s@gmail.com)
 
 ---
 
